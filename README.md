@@ -42,7 +42,7 @@ pid 	  arrival_time 	  burst_time
 2 	  10 	  4
 ```
 ![input2](input2-test.png)
-## Input.2
+## Input.3
 ```
 4
 pid 	  arrival_time 	  burst_time
